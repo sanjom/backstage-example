@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: vc-docker-dinman
+  description: The place to be, for great hackers
+spec:
+  type: local-dev-tool
+  lifecycle: production
+  owner: guest
