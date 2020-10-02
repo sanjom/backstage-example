@@ -4,6 +4,6 @@ metadata:
   name: vc-docker-dinman
   description: The place to be, for great hackers
 spec:
-  type: Component
+  type: library
   lifecycle: production
   owner: guest
